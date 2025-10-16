@@ -1,0 +1,1 @@
+This notebook explains the concept of confidence intervals and demonstrates how to calculate them for both t-tests and z-tests. It uses a sample dataset to calculate the sample mean and standard deviation, and then constructs 95% confidence intervals to estimate the population mean
